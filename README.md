@@ -92,7 +92,7 @@ Plataforma educacional desenvolvida em equipe com foco na conexão entre alunos 
 
 📧 Email: victorpicciuttidossantos@gmail.com  
 
-💼 LinkedIn: COLOQUE_SEU_LINK  
+💼 LinkedIn: www.linkedin.com/in/victorpicciuttidossantos  
 
 🐙 GitHub: https://github.com/Victor-Picciutti
 
